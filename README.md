@@ -19,4 +19,6 @@ This is a repository designed for lab members to familiarize themselves with git
 
 - [Comparing Workflow Styles](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
+- [Codecademy Lesson](https://www.codecademy.com/learn/learn-git)
+
 Have fun with GitHub!
